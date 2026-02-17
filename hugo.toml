@@ -1,0 +1,14 @@
+baseURL = "https://letsgetweird.github.io/le_blog/"
+languageCode = "en-us"
+theme = "poison"
+[pagination]
+  pagerSize = 10
+
+[params]
+  brand = "My Site"
+  description = "My personal site"
+  avatar = "img/avatar.jpg"   # optional, add your own image later
+  disable_darkmode = false
+
+  [params.social]
+    github_url = "https://github.com/letsgetweird"
