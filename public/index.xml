@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/le_blog/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/le_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>//localhost:1313/posts/hello-world/</link>
+      <title>00_burn_it_all_down</title>
+      <link>http://localhost:1313/le_blog/posts/00_burn_it_all_down/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to my new site!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/le_blog/posts/00_burn_it_all_down/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;NOW PLAYING:&lt;/strong&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vQN_DTqHNqo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;em&gt;&amp;ldquo;You ain&amp;rsquo;t a has-been if you never was&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;is-this-thing-fucking-on&#34;&gt;Is this thing fucking on?&lt;/h1&gt;&#xA;&lt;p&gt;I have a really bad habit of committing myself entirely to an endeavor and flaming out a couple of weeks later. The running joke is that I&amp;rsquo;m simply a blacksmith working with too many irons in the fire &lt;em&gt;&lt;strong&gt;eternally&lt;/strong&gt;&lt;/em&gt;. Just a month ago I publicly announced that I was going to build a pentesting firm focused on CMMC compliance testing. A month before that, I vibe coded a passive asset inventory tool for ICS networks. Today&amp;hellip; well, I&amp;rsquo;m not doing any of that shit. To be fair, I&amp;rsquo;ve always done this, but it&amp;rsquo;s getting worse. I am in career &lt;em&gt;&lt;strong&gt;hell&lt;/strong&gt;&lt;/em&gt;. But I may have found a path and only time will tell if it&amp;rsquo;s my escape or yet another iron in the fire.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
